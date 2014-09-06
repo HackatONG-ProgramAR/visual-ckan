@@ -1,0 +1,34 @@
+CATEGORÍAS (GRUPO)
+	Seguidores
+	Miembros
+	Conjuntos de datos
+	Organización
+	Etiquetas
+	Formatos
+	Licencia
+
+
+
+CONJUNTO DE DATOS (SUBGRUPO)
+	metadatos:
+		Autor
+		Mantenedor
+		Alcance Geográfico
+		Fecha
+
+Datasets (tabla)
+	metadatos:
+		Última actualización
+		Creado
+		Formato
+		Licencia
+		created
+		format
+		id
+		on same domain
+		position
+		resource group id
+		resource type
+		revision id
+		revision timestamp
+		state
